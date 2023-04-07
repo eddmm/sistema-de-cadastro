@@ -6,5 +6,4 @@ Para rodar este projeto na sua maquina , por favor digite:
 ```
 node app.js
 ```
-
-Curso ministrado pelos instrutores Guilherme Lima e Paulo Silveira, agredeço pelo ótimo curso e didática exemplar. 
+<h5>Curso ministrado pelos instrutores Guilherme Lima e Paulo Silveira, agredeço pelo ótimo curso e didática exemplar.<h5> 
